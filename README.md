@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Agro-financing**
 
-- 👨‍💻 All of my projects are available at [https://odatransportation.com/](https://odatransportation.com/)
+- 👨‍💻 All of my projects are available at [my-portfolio/](https://eyasu-portfolio.netlify.app/)
 
 - 📫 How to reach me **emanaeyasu77@gmail.com**
 
